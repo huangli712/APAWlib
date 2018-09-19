@@ -1,2 +1,2 @@
 # hpaw
-Highly Reliable Projector Augmented Wave Dataset For Actinides
+My Own Projector Augmented Wave Dataset For Actinides
