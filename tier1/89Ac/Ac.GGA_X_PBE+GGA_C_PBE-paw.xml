@@ -8,7 +8,7 @@
  Contact info: Natalie Holzwarth
  email: natalie@wfu.edu, web: pwpaw.wfu.edu
  Energy units=Hartree, length units=bohr
- PAW functions generated on 09/17/2018, 13:18:56.913
+ PAW functions generated on 09/26/2018, 12:02:43.280
  The input file is available at the end of this file
  Atompaw -->
 <ae_energy kinetic="  2.98677090381579510E+04" xc=" -4.44789922484138970E+02"
@@ -18804,35 +18804,35 @@ XC_GGA_X_PBE+XC_GGA_C_PBE scalarrelativistic loggrid 2000 ! PBE XC by xclib
 7 6 6 4 0 0  ! [Rn] = [Xe] 4f14 5d10 6s2 6p6; [Ac] = [Rn] 6d1 7s2
 6 2 1.0      ! 6d1 is partially occupied
 0 0 0
-c    ! 1s
-c    ! 2s
-c    ! 3s
-c    ! 4s
-c    ! 5s
-v    ! 6s semi-core
-v    ! 7s valence
-c    ! 2p
-c    ! 3p
-c    ! 4p
-c    ! 5p
-v    ! 6p valence
-c    ! 3d
-c    ! 4d
-c    ! 5d
-v    ! 6d valence
-c    ! 4f
-2    ! lmax
-2.5  ! rpaw, rshape, rvloc, rcore
-y    ! additional s partial wave
+c            ! 1s
+c            ! 2s
+c            ! 3s
+c            ! 4s
+c            ! 5s
+v            ! 6s semi-core
+v            ! 7s valence
+c            ! 2p
+c            ! 3p
+c            ! 4p
+c            ! 5p
+v            ! 6p valence
+c            ! 3d
+c            ! 4d
+c            ! 5d
+v            ! 6d valence
+c            ! 4f
+2            ! lmax
+2.5          ! rpaw, rshape, rvloc, rcore
+y            ! additional s partial wave
 4.0
 n
-y    ! additional p partial wave
+y            ! additional p partial wave
 2.0
 n
-y    ! additional d partial wave
+y            ! additional d partial wave
 2.0
 n
-bloechl   ! projector_keyword
+bloechl      ! projector_keyword
 3 0.0 troulliermartins  ! lloc, eloc, vloc_scheme
 XMLOUT
 default
