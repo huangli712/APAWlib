@@ -24,17 +24,17 @@ c            ! 5f
 1            ! lmax
 2.5          ! rpaw, rshape, rvloc, rcore
 y            ! additional s partial wave
-2.3
+2.8
 n
 y            ! additional p partial wave
-1.0
+1.8
 n
 custom rrkj  ! projector_keyword
 2 0.0 troulliermartins  ! lloc, eloc, vloc_scheme
 2.3          ! r_c matching radius for first  s partial wave
-2.3          ! r_c matching radius for second s partial wave
+1.4          ! r_c matching radius for second s partial wave
 2.3          ! r_c matching radius for first  p partial wave
-2.3          ! r_c matching radius for second p partial wave
+2.8          ! r_c matching radius for second p partial wave
 2.3          ! r_c matching radius for third  p partial wave
 ABINITOUT    ! ABINIT
 default
