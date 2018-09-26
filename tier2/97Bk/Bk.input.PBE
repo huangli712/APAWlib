@@ -23,16 +23,16 @@ v            ! 5f valence
 3            ! lmax
 2.3          ! rpaw, rshape, rvloc, rcore
 y            ! additional s partial wave
-1.7
+2.0
 n
 y            ! additional p partial wave
-2.0
+1.2
 n
 y            ! additional d partial wave
 2.0
 n
 y            ! additional f partial wave
-4.0
+1.0
 n
 custom rrkj  ! projector_keyword
 4 0.0 troulliermartins  ! lloc, eloc, vloc_scheme
@@ -40,7 +40,7 @@ custom rrkj  ! projector_keyword
 2.3          ! r_c matching radius for second s partial wave
 2.3          ! r_c matching radius for third  s partial wave
 2.3          ! r_c matching radius for first  p partial wave
-2.3          ! r_c matching radius for second p partial wave
+2.6          ! r_c matching radius for second p partial wave
 1.4          ! r_c matching radius for first  d partial wave
 1.4          ! r_c matching radius for second d partial wave
 2.3          ! r_c matching radius for first  f partial wave
