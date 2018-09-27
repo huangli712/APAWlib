@@ -28,7 +28,7 @@ y            ! additional s partial wave
 1.7
 n
 y            ! additional p partial wave
--1.
+2.0
 n
 y            ! additional d partial wave
 2.0
@@ -42,7 +42,7 @@ custom rrkj  ! projector_keyword
 2.3          ! r_c matching radius for second s partial wave
 2.3          ! r_c matching radius for third  s partial wave
 2.3          ! r_c matching radius for first  p partial wave
-2.6          ! r_c matching radius for second p partial wave
+1.6          ! r_c matching radius for second p partial wave
 1.4          ! r_c matching radius for first  d partial wave
 1.4          ! r_c matching radius for second d partial wave
 2.3          ! r_c matching radius for first  f partial wave
