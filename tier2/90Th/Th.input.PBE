@@ -36,8 +36,17 @@ n
 y            ! additional f partial wave
 2.0
 n
-bloechl      ! projector_keyword
+custom rrkj  ! projector_keyword
 4 0.0 troulliermartins  ! lloc, eloc, vloc_scheme
+2.3          ! r_c matching radius for first  s partial wave
+2.3          ! r_c matching radius for second s partial wave
+2.3          ! r_c matching radius for third  s partial wave
+2.3          ! r_c matching radius for first  p partial wave
+2.3          ! r_c matching radius for second p partial wave
+2.3          ! r_c matching radius for first  d partial wave
+2.3          ! r_c matching radius for second d partial wave
+2.3          ! r_c matching radius for first  f partial wave
+2.3          ! r_c matching radius for second f partial wave
 ABINITOUT    ! ABINIT
 default
 XMLOUT       ! XML
