@@ -1,7 +1,7 @@
 Fr 87        ! Fr element
 XC_GGA_X_PBE+XC_GGA_C_PBE scalarrelativistic loggrid 2000 ! PBE XC by xclib
 7 6 5 4 0 0  ! [Rn] = [Xe] 4f14 5d10 6s2 6p6; [Fr] = [Rn] 7s1
-7 0 1.0      ! 7f1 is partially occupied
+7 0 1.0      ! 7s1 is partially occupied
 0 0 0
 c            ! 1s
 c            ! 2s
