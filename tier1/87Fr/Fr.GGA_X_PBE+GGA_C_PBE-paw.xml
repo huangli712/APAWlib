@@ -8,7 +8,7 @@
  Contact info: Natalie Holzwarth
  email: natalie@wfu.edu, web: pwpaw.wfu.edu
  Energy units=Hartree, length units=bohr
- PAW functions generated on 09/26/2018, 11:57:20.386
+ PAW functions generated on 09/27/2018, 11:28:04.259
  The input file is available at the end of this file
  Atompaw -->
 <ae_energy kinetic="  2.79538872611945189E+04" xc=" -4.27867859874653107E+02"
@@ -14770,7 +14770,7 @@
 Fr 87        ! Fr element
 XC_GGA_X_PBE+XC_GGA_C_PBE scalarrelativistic loggrid 2000 ! PBE XC by xclib
 7 6 5 4 0 0  ! [Rn] = [Xe] 4f14 5d10 6s2 6p6; [Fr] = [Rn] 7s1
-7 0 1.0      ! 7f1 is partially occupied
+7 0 1.0      ! 7s1 is partially occupied
 0 0 0
 c            ! 1s
 c            ! 2s
