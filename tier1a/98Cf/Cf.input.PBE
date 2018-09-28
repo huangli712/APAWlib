@@ -1,7 +1,8 @@
 Cf 98        ! Cf element
-XC_GGA_X_PBE+XC_GGA_C_PBE scalarrelativistic loggrid 2000 ! PBE XC by xclib
-7 6 5 5 0 0  ! [Rn] = [Xe] 4f14 5d10 6s2 6p6; [Cf] = [Rn] 5f10 7s2
-5 3 10.0     ! 5f10 is partially occupied
+XC_GGA_X_PBE+XC_GGA_C_PBE scalarrelativistic loggrid 1500 ! PBE XC by xclib
+7 6 6 5 0 0  ! [Rn] = [Xe] 4f14 5d10 6s2 6p6; [Cf] = [Rn] 5f9 6d1 7s2
+5 3 9.00     ! 5f9 is partially occupied
+6 2 1.00     ! 6d1 is partially occupied
 0 0 0
 c            ! 1s
 c            ! 2s
@@ -17,22 +18,21 @@ c            ! 5p
 v            ! 6p valence
 c            ! 3d
 c            ! 4d
-v            ! 5d valence
+c            ! 5d
+v            ! 6d valence
 c            ! 4f
 v            ! 5f valence
 3            ! lmax
-2.3          ! rpaw, rshape, rvloc, rcore
-y            ! additional s partial wave
-1.7
-n
+2.5          ! rpaw, rshape, rvloc, rcore
+n            ! additional s partial wave
 y            ! additional p partial wave
-4.0
+0.0
 n
 y            ! additional d partial wave
-2.0
+0.0
 n
 y            ! additional f partial wave
-4.0
+0.0
 n
 bloechl      ! projector_keyword
 4 0.0 troulliermartins  ! lloc, eloc, vloc_scheme
