@@ -1,21 +1,21 @@
 
-Element   | Configuration
---------- | -------------
-Fr        | 7s^1
-Ra |
-Ac |
-Th |
-Pa |
-U  |
-Np |
-Pu |
-Am |
-Cm |
-Bk |
-Cf |
-Es |
-Fm |
-Md |
-No |
-Lr |
-Rf |
+      No. |     Symbol   | Configuration
+--------- | ------------ | --------------
+087 | Fr | 7s^1
+088 | Ra |
+089 | Ac |
+090 | Th |
+091 | Pa |
+092 | U  |
+093 | Np |
+094 | Pu |
+095 | Am |
+096 | Cm |
+097 | Bk |
+098 | Cf |
+099 | Es |
+100 | Fm |
+101 | Md |
+102 | No |
+103 | Lr |
+104 | Rf |
