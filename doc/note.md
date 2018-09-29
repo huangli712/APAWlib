@@ -4,4 +4,18 @@ No | Symbol | Valence
 87 | Fr | 7s^1
 88 | Ra | 7s^2
 89 | Ac | 5f^0 6d^1
-
+90 | Th | 5f1 6d1
+91 | Pa | 5f2 6d1
+92 | U  | 5f3 6d1
+93 | Np | 5f4 6d1
+94 | Pu | 5f5 6d1
+95 | Am | 5f6 6d1
+96 | Cm | 5f7 6d1
+97 | Bk | 5f8 6d1
+98 | Cf | 5f9 6d1
+99 | Es | 5f10 6d1
+100 | Fm | 5f11 6d1
+101 | Md | 5f12 6d1
+102 | No | 5f13 6d1
+103 | Lr | 5f14 6d1
+104 | Rf | 5f14 6d2 
