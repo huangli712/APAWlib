@@ -1,8 +1,8 @@
 
 No | Symbol | Valence
 ------------ | ------------- | ------------
-087 | Fr | <img src="https://latex.codecogs.com/svg.latex?\Large&space;7s^{01}"/>
-088 | Ra | 7s^02
+087 | Fr | <img src="https://latex.codecogs.com/svg.latex?\Large&space;[Rn]7s^{1}"/>
+088 | Ra | <img src="https://latex.codecogs.com/svg.latex?\Large&space;[Rn]7s^{2}"/>
 089 | Ac | 5f^00 6d^01
 090 | Th | 5f^01 6d^01
 091 | Pa | 5f^02 6d^01
