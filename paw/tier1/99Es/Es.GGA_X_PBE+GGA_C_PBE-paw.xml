@@ -8,7 +8,7 @@
  Contact info: Natalie Holzwarth
  email: natalie@wfu.edu, web: pwpaw.wfu.edu
  Energy units=Hartree, length units=bohr
- PAW functions generated on 09/26/2018, 18:09:26.429
+ PAW functions generated on 10/02/2018, 22:24:36.703
  The input file is available at the end of this file
  Atompaw -->
 <ae_energy kinetic="  4.13326558021731180E+04" xc=" -5.40531235447220865E+02"
