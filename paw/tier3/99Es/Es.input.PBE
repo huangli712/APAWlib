@@ -9,7 +9,7 @@ c            ! 2s
 c            ! 3s
 c            ! 4s
 c            ! 5s
-v            ! 6s semi-core
+c            ! 6s semi-core
 v            ! 7s valence
 c            ! 2p
 c            ! 3p
@@ -25,13 +25,13 @@ v            ! 5f valence
 3            ! lmax
 2.3          ! rpaw, rshape, rvloc, rcore
 y            ! additional s partial wave
-1.7
+0.0
 n
 y            ! additional p partial wave
 4.0
 n
 y            ! additional d partial wave
-2.0
+1.9
 n
 y            ! additional f partial wave
 4.0
