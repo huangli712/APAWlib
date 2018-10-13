@@ -1,19 +1,27 @@
+import sys
 import matplotlib
 matplotlib.use("pdf") # setup backend
 import matplotlib.pyplot as plt
 import numpy as np
 
-f, axarr = plt.subplots(2,2)
-plt.subplots_adjust(hspace = 0.3, wspace = 0.3)
-
+# get maximum l
 argu = sys.argv[1:]
 if ( len(argu) > 0 ):
     maxl = int(argu[0])
 else:
     maxl = 0
 
-print maxl
-sys.exit(-1)
+# check lower bound for maximum l
+if maxl <= 0:
+    sys.exit(-1)
+
+# check upper bound for maximum l
+if maxl >= 4:
+    sys.exit(-1)
+
+# create plot layout
+f, axarr = plt.subplots(2,2)
+plt.subplots_adjust(hspace = 0.3, wspace = 0.3)
 
 # for l == 0, s orbital
 if maxl >= 0:
