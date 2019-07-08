@@ -47,3 +47,20 @@ N/A
 
 See [doc/note.md](doc/note.md).
 
+## Development
+
+The HPAW software package is developed and maintained by the HPAW Developer Team.
+
+Find a bug? Want to contribute? Want new features? Great! Please contact with us as soon as possible.
+
+## Reference
+
+N/A
+
+## Contact
+
+```sh
+Li Huang
+Institute of Materials, China Academy of Engineering Physics, Sichuan Jiangyou, PRC
+email: lihuang.dmft at gmail.com
+```
