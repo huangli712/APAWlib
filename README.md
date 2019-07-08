@@ -39,6 +39,8 @@ Now the following elements are supported.
     * Md
     * No
 
+In the future, we will add datasets for more elements.
+
 ## Installation
 
 N/A
