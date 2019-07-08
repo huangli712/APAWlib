@@ -1,13 +1,14 @@
-
 ## Generation schemes
 
-## Type 1
+Now HPAW supports two generation schemes.
+
+* Tier 1
 
 Generation scheme for pseudo partial waves and projectors: Bloechl
 
 Generation scheme for local pseudopotential: Troullier-Martins
 
-## Type 2
+* Tier 2
 
 Generation scheme for pseudo partial waves and projectors: RRKJ
 
