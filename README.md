@@ -39,3 +39,11 @@ Now the following elements are supported.
     * Md
     * No
 
+## Installation
+
+N/A
+
+## Documentation
+
+See [doc/note.md](doc/note.md).
+
