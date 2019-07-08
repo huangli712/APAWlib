@@ -11,3 +11,14 @@ v0.1.0 (devel)
 GNU General Public License Version 3
 
 ## Features
+
+Now the following elements are supported.
+
+* Group 1
+    * Fr
+
+* Group 2
+    * Ra
+
+* Group 3
+    * Lr 
