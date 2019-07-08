@@ -1,10 +1,13 @@
-## tier1
+
+## Generation schemes
+
+## Type 1
 
 Generation scheme for pseudo partial waves and projectors: Bloechl
 
 Generation scheme for local pseudopotential: Troullier-Martins
 
-## tier2
+## Type 2
 
 Generation scheme for pseudo partial waves and projectors: RRKJ
 
