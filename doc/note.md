@@ -32,3 +32,5 @@ No | Symbol | Valence
 102 | No | <img src="https://latex.codecogs.com/svg.latex?\Large&space;[Rn]5f^{13}6d^{1}7s^{2}"/>
 103 | Lr | <img src="https://latex.codecogs.com/svg.latex?\Large&space;[Rn]5f^{14}6d^{1}7s^{2}"/>
 104 | Rf | <img src="https://latex.codecogs.com/svg.latex?\Large&space;[Rn]5f^{14}6d^{2}7s^{2}"/>
+
+## Benchmarks
