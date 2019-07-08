@@ -10,6 +10,8 @@ Generation scheme for pseudo partial waves and projectors: RRKJ
 
 Generation scheme for local pseudopotential: Troullier-Martins
 
+## Electronic configurations
+
 No | Symbol | Valence
 ------------ | ------------- | ------------
 087 | Fr | <img src="https://latex.codecogs.com/svg.latex?\Large&space;[Rn]7s^{1}"/>
