@@ -5,15 +5,18 @@
 ## Introduction
 ## ============
 ##
-## It is a python script. The purpose of this script is to clean the dull
-## .DS_Store files in the macOS system.
+## It is a python script. The purpose of this script is to visualize the
+## logarithmic derivatives (logderiv.l files). Note that each logderiv.l
+## file correspond to l quantum number and contains the logarithmic
+## derivative of the l-state, computed for exact atomic problem and with
+## the PAW dataset.
 ##
 ## This script should be used by the developer only.
 ##
 ## Usage
 ## =====
 ##
-## ./d_clean.py directory_name
+## ./plotlog.py maximum_l_state
 ##
 ## Author
 ## ======
@@ -25,8 +28,8 @@
 ## History
 ## =======
 ##
-## 12/02/2014 by li huang (created)
-## 06/05/2017 by li huang (last modified)
+## 14/07/2019 by li huang (created)
+## 14/07/2019 by li huang (last modified)
 ##
 ##
 
