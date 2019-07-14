@@ -1,3 +1,35 @@
+#!/usr/bin/env python
+
+##
+##
+## Introduction
+## ============
+##
+## It is a python script. The purpose of this script is to clean the dull
+## .DS_Store files in the macOS system.
+##
+## This script should be used by the developer only.
+##
+## Usage
+## =====
+##
+## ./d_clean.py directory_name
+##
+## Author
+## ======
+##
+## This python script is designed, created, and maintained by
+##
+## Li Huang // email: lihuang.dmft@gmail.com
+##
+## History
+## =======
+##
+## 12/02/2014 by li huang (created)
+## 06/05/2017 by li huang (last modified)
+##
+##
+
 import sys
 import matplotlib
 matplotlib.use("pdf") # setup backend
