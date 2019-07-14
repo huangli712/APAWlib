@@ -1,5 +1,5 @@
 Ra 88        ! Ra element
-XC_GGA_X_PBE+XC_GGA_C_PBE scalarrelativistic loggrid 2000 ! PBE XC by xclib
+XC_GGA_X_PBE+XC_GGA_C_PBE scalarrelativistic loggrid 2001 ! PBE XC by xclib
 7 6 5 4 0 0  ! [Rn] = [Xe] 4f14 5d10 6s2 6p6; [Ra] = [Rn] 7s2
 7 0 2.0      ! 7f2 is partially occupied
 0 0 0
@@ -25,7 +25,7 @@ y            ! additional s partial wave
 3.8
 n
 y            ! additional p partial wave
-0.0
+4.0
 n
 bloechl      ! projector_keyword
 2 0.0 troulliermartins  ! lloc, eloc, vloc_scheme
