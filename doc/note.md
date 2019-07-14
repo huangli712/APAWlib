@@ -26,7 +26,7 @@ No | Symbol | Valence
 096 | Cm | <img src="https://latex.codecogs.com/svg.latex?\Large&space;[Rn]5f^{8}6d^{0}7s^{2}"/>
 097 | Bk | <img src="https://latex.codecogs.com/svg.latex?\Large&space;[Rn]5f^{9}6d^{0}7s^{2}"/>
 098 | Cf | <img src="https://latex.codecogs.com/svg.latex?\Large&space;[Rn]5f^{10}6d^{0}7s^{2}"/>
-099 | Es | <img src="https://latex.codecogs.com/svg.latex?\Large&space;[Rn]5f^{10}6d^{1}7s^{2}"/>
+099 | Es | <img src="https://latex.codecogs.com/svg.latex?\Large&space;[Rn]5f^{11}6d^{0}7s^{2}"/>
 100 | Fm | <img src="https://latex.codecogs.com/svg.latex?\Large&space;[Rn]5f^{11}6d^{1}7s^{2}"/>
 101 | Md | <img src="https://latex.codecogs.com/svg.latex?\Large&space;[Rn]5f^{12}6d^{1}7s^{2}"/>
 102 | No | <img src="https://latex.codecogs.com/svg.latex?\Large&space;[Rn]5f^{13}6d^{1}7s^{2}"/>
