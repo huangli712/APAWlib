@@ -1,5 +1,5 @@
 Lr 103       ! Lr element
-XC_GGA_X_PBE+XC_GGA_C_PBE scalarrelativistic loggrid 2000 ! PBE XC by xclib
+XC_GGA_X_PBE+XC_GGA_C_PBE scalarrelativistic loggrid 2001 ! PBE XC by xclib
 7 7 5 5 0 0  ! [Rn] = [Xe] 4f14 5d10 6s2 6p6; [Lr] = [Rn] 5f14 7s2 7p1
 7 1 1.00     ! 7p1 is partially occupied
 0 0 0
@@ -24,7 +24,7 @@ c            ! 5f
 1            ! lmax
 2.5          ! rpaw, rshape, rvloc, rcore
 y            ! additional s partial wave
-2.3
+2.5
 n
 y            ! additional p partial wave
 1.0
