@@ -31,6 +31,5 @@ No | Symbol | Valence
 101 | Md | <img src="https://latex.codecogs.com/svg.latex?\Large&space;[Rn]5f^{13}6d^{0}7s^{2}"/>
 102 | No | <img src="https://latex.codecogs.com/svg.latex?\Large&space;[Rn]5f^{14}6d^{0}7s^{2}"/>
 103 | Lr | <img src="https://latex.codecogs.com/svg.latex?\Large&space;[Rn]5f^{14}7s^{2}7p^{1}"/>
-104 | Rf | <img src="https://latex.codecogs.com/svg.latex?\Large&space;[Rn]5f^{14}6d^{2}7s^{2}"/>
 
 ## Benchmarks
