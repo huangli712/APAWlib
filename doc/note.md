@@ -34,7 +34,7 @@ No | Symbol | Valence
 
 **Note**
 
-According to wiki, the electronic configurations for Th and Cm are <img src="https://latex.codecogs.com/svg.latex?\Large&space;[Rn]6d^{2}7s^{2}"/> and <img src="https://latex.codecogs.com/svg.latex?\Large&space;[Rn]5f^{7}6d^{1}7s^{2}"/> , respectively.
+According to wiki, the electronic configurations for Th and Cm are <img src="https://latex.codecogs.com/svg.latex?\Large&space;[Rn]6d^{2}7s^{2}"/> and <img src="https://latex.codecogs.com/svg.latex?\Large&space;[Rn]5f^{7}6d^{1}7s^{2}"/> , respectively. However, in the present version of hpaw, we chose different settings.
 
 
 
