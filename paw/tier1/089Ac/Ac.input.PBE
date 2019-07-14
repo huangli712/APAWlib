@@ -1,5 +1,5 @@
 Ac 89        ! Ac element
-XC_GGA_X_PBE+XC_GGA_C_PBE scalarrelativistic loggrid 2000 ! PBE XC by xclib
+XC_GGA_X_PBE+XC_GGA_C_PBE scalarrelativistic loggrid 2001 ! PBE XC by xclib
 7 6 6 4 0 0  ! [Rn] = [Xe] 4f14 5d10 6s2 6p6; [Ac] = [Rn] 6d1 7s2
 6 2 1.0      ! 6d1 is partially occupied
 0 0 0
@@ -21,15 +21,15 @@ c            ! 5d
 v            ! 6d valence
 c            ! 4f
 2            ! lmax
-2.5          ! rpaw, rshape, rvloc, rcore
+2.4          ! rpaw, rshape, rvloc, rcore
 y            ! additional s partial wave
-4.0
+3.0
 n
 y            ! additional p partial wave
-2.0
+3.0
 n
 y            ! additional d partial wave
-2.0
+2.5
 n
 bloechl      ! projector_keyword
 3 0.0 troulliermartins  ! lloc, eloc, vloc_scheme
