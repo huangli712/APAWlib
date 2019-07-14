@@ -1,5 +1,5 @@
 Pu 94        ! Pu element
-XC_GGA_X_PBE+XC_GGA_C_PBE scalarrelativistic loggrid 2000 ! PBE XC by xclib
+XC_GGA_X_PBE+XC_GGA_C_PBE scalarrelativistic loggrid 2001 ! PBE XC by xclib
 7 6 5 5 0 0  ! [Rn] = [Xe] 4f14 5d10 6s2 6p6; [Pu] = [Rn] 5f6 7s2
 5 3 6.0      ! 5f6 is partially occupied
 0 0 0
@@ -26,10 +26,10 @@ y            ! additional s partial wave
 1.7
 n
 y            ! additional p partial wave
-4.0
+2.0
 n
 y            ! additional d partial wave
-2.2
+2.4
 n
 y            ! additional f partial wave
 2.0
