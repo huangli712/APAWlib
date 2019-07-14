@@ -25,7 +25,7 @@ y            ! additional s partial wave
 4.0
 n
 y            ! additional p partial wave
-0.0
+4.0
 n
 bloechl      ! projector_keyword
 2 0.0 troulliermartins  ! lloc, eloc, vloc_scheme
