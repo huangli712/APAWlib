@@ -1,5 +1,5 @@
 Th 90        ! Th element
-XC_GGA_X_PBE+XC_GGA_C_PBE scalarrelativistic loggrid 2000 ! PBE XC by xclib
+XC_GGA_X_PBE+XC_GGA_C_PBE scalarrelativistic loggrid 2001 ! PBE XC by xclib
 7 6 6 5 0 0  ! [Rn] = [Xe] 4f14 5d10 6s2 6p6; [Th] = [Rn] 5f1 6d1 7s2
 6 2 1.0      ! 6d1 is partially occupied
 5 3 1.0      ! 5f1 is partially occupied
@@ -31,7 +31,7 @@ y            ! additional p partial wave
 2.5
 n
 y            ! additional d partial wave
-2.0
+2.9
 n
 y            ! additional f partial wave
 2.0
