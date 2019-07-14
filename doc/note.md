@@ -23,7 +23,7 @@ No | Symbol | Valence
 093 | Np | <img src="https://latex.codecogs.com/svg.latex?\Large&space;[Rn]5f^{4}6d^{1}7s^{2}"/>
 094 | Pu | <img src="https://latex.codecogs.com/svg.latex?\Large&space;[Rn]5f^{6}6d^{0}7s^{2}"/>
 095 | Am | <img src="https://latex.codecogs.com/svg.latex?\Large&space;[Rn]5f^{7}6d^{0}7s^{2}"/>
-096 | Cm | <img src="https://latex.codecogs.com/svg.latex?\Large&space;[Rn]5f^{7}6d^{1}7s^{2}"/>
+096 | Cm | <img src="https://latex.codecogs.com/svg.latex?\Large&space;[Rn]5f^{8}6d^{0}7s^{2}"/>
 097 | Bk | <img src="https://latex.codecogs.com/svg.latex?\Large&space;[Rn]5f^{8}6d^{1}7s^{2}"/>
 098 | Cf | <img src="https://latex.codecogs.com/svg.latex?\Large&space;[Rn]5f^{9}6d^{1}7s^{2}"/>
 099 | Es | <img src="https://latex.codecogs.com/svg.latex?\Large&space;[Rn]5f^{10}6d^{1}7s^{2}"/>
