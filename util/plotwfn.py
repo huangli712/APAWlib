@@ -5,15 +5,15 @@
 ## Introduction
 ## ============
 ##
-## It is a python script. The purpose of this script is to clean the dull
-## .DS_Store files in the macOS system.
+## It is a python script. The purpose of this script is to visualize the
+## partial-waves, PS partial-waves and projectors (wfn.i files).
 ##
 ## This script should be used by the developer only.
 ##
 ## Usage
 ## =====
 ##
-## ./d_clean.py directory_name
+## ./plotwfn.py total_number_of_projectors
 ##
 ## Author
 ## ======
@@ -25,8 +25,8 @@
 ## History
 ## =======
 ##
-## 12/02/2014 by li huang (created)
-## 06/05/2017 by li huang (last modified)
+## 14/07/2019 by li huang (created)
+## 14/07/2019 by li huang (last modified)
 ##
 ##
 
