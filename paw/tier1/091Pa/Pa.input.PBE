@@ -1,8 +1,8 @@
 Pa 91        ! Pa element
-XC_GGA_X_PBE+XC_GGA_C_PBE scalarrelativistic loggrid 2000 ! PBE XC by xclib
-7 6 6 5 0 0  ! [Rn] = [Xe] 4f14 5d10 6s2 6p6; [Pa] = [Rn] 5f1 6d2 7s2
-6 2 2.0      ! 6d2 is partially occupied
-5 3 1.0      ! 5f1 is partially occupied
+XC_GGA_X_PBE+XC_GGA_C_PBE scalarrelativistic loggrid 2001 ! PBE XC by xclib
+7 6 6 5 0 0  ! [Rn] = [Xe] 4f14 5d10 6s2 6p6; [Pa] = [Rn] 5f2 6d1 7s2
+6 2 1.0      ! 6d2 is partially occupied
+5 3 2.0      ! 5f1 is partially occupied
 0 0 0
 c            ! 1s
 c            ! 2s
