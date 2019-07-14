@@ -32,4 +32,10 @@ No | Symbol | Valence
 102 | No | <img src="https://latex.codecogs.com/svg.latex?\Large&space;[Rn]5f^{14}6d^{0}7s^{2}"/>
 103 | Lr | <img src="https://latex.codecogs.com/svg.latex?\Large&space;[Rn]5f^{14}7s^{2}7p^{1}"/>
 
+**Note**
+
+According to wiki, the electronic configurations for Th and Cm are <img src="https://latex.codecogs.com/svg.latex?\Large&space;[Rn]6d^{2}7s^{2}"/> and <img src="https://latex.codecogs.com/svg.latex?\Large&space;[Rn]5f^{7}6d^{1}7s^{2}"/> , respectively.
+
+
+
 ## Benchmarks
