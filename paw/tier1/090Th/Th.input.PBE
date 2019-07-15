@@ -23,18 +23,18 @@ v            ! 6d valence
 c            ! 4f
 v            ! 5f valence
 3            ! lmax
-2.4          ! rpaw, rshape, rvloc, rcore
+2.5          ! rpaw, rshape, rvloc, rcore
 y            ! additional s partial wave
-1.0
+0.0
 n
 y            ! additional p partial wave
-2.5
+2.0
 n
 y            ! additional d partial wave
-2.9
+2.0
 n
 y            ! additional f partial wave
-2.0
+1.0
 n
 bloechl      ! projector_keyword
 4 0.0 troulliermartins  ! lloc, eloc, vloc_scheme
