@@ -1,5 +1,5 @@
 Paw atomic data for element Md - Generated with atompaw v4.1.0.3
- 101.000  33.000 20190715               : zatom,zion,pspdat
+ 101.000  33.000 20190812               : zatom,zion,pspdat
   7 -101130  3 0  1498 0.               : pspcod,pspxc,lmax,lloc,mmax,r2well
  paw5 1341                              : pspfmt,creatorID
   9 33                                  : basis_size,lmn_size
