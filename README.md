@@ -20,9 +20,6 @@ Now the following elements are supported.
 * Group 2
     * Ra
 
-* Group 3
-    * Lr 
-
 * Actinides
     * Ac
     * Th
