@@ -30,7 +30,25 @@ No | Symbol | Valence
 100 | Fm | <img src="https://latex.codecogs.com/svg.latex?\Large&space;[Rn]5f^{12}6d^{0}7s^{2}"/>
 101 | Md | <img src="https://latex.codecogs.com/svg.latex?\Large&space;[Rn]5f^{13}6d^{0}7s^{2}"/>
 102 | No | <img src="https://latex.codecogs.com/svg.latex?\Large&space;[Rn]5f^{14}6d^{0}7s^{2}"/>
-103 | Lr | <img src="https://latex.codecogs.com/svg.latex?\Large&space;[Rn]5f^{14}7s^{2}7p^{1}"/>
+
+
+
+Fr 5d10 6s2 6p6 7s1
+Ra 5d10 6s2 6p6 7s2
+Ac 5d10 6s2 6p6 6d1 7s2
+Th 5d10 6s2 6p6 6d2 7s2
+Pa 5f2  6s2 6p6 6d1 7s2
+U  5f3  6s2 6p6 6d1 7s2
+Np 5f4  6s2 6p6 6d1 7s2
+Pu 5f6  6s2 6p6 6d0 7s2
+Am 5f7  6s2 6p6 6d0 7s2
+Cm 5f7  6s2 6p6 6d1 7s2
+Bk 5f9  6s2 6p6 6d0 7s2
+Cf 5f10 6s2 6p6 6d0 7s2
+Es 5f11 6s2 6p6 6d0 7s2
+Fm 5f12 6s2 6p6 6d0 7s2
+Md 5f13 6s2 6p6 6d0 7s2
+No 5f14 6s2 6p6 6d0 7s2
 
 **Note**
 
