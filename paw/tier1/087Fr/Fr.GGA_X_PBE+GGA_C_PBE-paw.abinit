@@ -1,5 +1,5 @@
 Paw atomic data for element Fr - Generated with atompaw v4.1.0.3
-  87.000   9.000 20190715               : zatom,zion,pspdat
+  87.000   9.000 20190826               : zatom,zion,pspdat
   7 -101130  1 0  1521 0.               : pspcod,pspxc,lmax,lloc,mmax,r2well
  paw5 1341                              : pspfmt,creatorID
   5  9                                  : basis_size,lmn_size
