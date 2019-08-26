@@ -1,5 +1,5 @@
 Paw atomic data for element Ra - Generated with atompaw v4.1.0.3
-  88.000  10.000 20190715               : zatom,zion,pspdat
+  88.000  10.000 20190826               : zatom,zion,pspdat
   7 -101130  1 0  1517 0.               : pspcod,pspxc,lmax,lloc,mmax,r2well
  paw5 1341                              : pspfmt,creatorID
   5  9                                  : basis_size,lmn_size
