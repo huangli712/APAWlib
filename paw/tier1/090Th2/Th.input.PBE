@@ -1,0 +1,40 @@
+Th 90        ! Th element
+XC_GGA_X_PBE+XC_GGA_C_PBE scalarrelativistic loggrid 2001 ! PBE XC by xclib
+7 6 6 4 0 0  ! [Rn] = [Xe] 4f14 5d10 6s2 6p6; [Th] = [Rn] 6d2 7s2
+6 2 2.0      ! 6d2 is partially occupied
+0 0 0
+c            ! 1s
+c            ! 2s
+c            ! 3s
+c            ! 4s
+c            ! 5s
+v            ! 6s semi-core
+v            ! 7s valence
+c            ! 2p
+c            ! 3p
+c            ! 4p
+c            ! 5p
+v            ! 6p valence
+c            ! 3d
+c            ! 4d
+c            ! 5d
+v            ! 6d valence
+c            ! 4f
+2            ! lmax
+2.52         ! rpaw, rshape, rvloc, rcore
+y            ! additional s partial wave
+0.5
+n
+y            ! additional p partial wave
+2.0
+n
+y            ! additional d partial wave
+4.5
+n
+bloechl      ! projector_keyword
+3 0.0 bessel  ! lloc, eloc, vloc_scheme
+ABINITOUT    ! ABINIT
+default
+XMLOUT       ! XML
+default
+END
