@@ -1,5 +1,5 @@
 Paw atomic data for element Th - Generated with atompaw v4.1.0.3
-  90.000  12.000 20190826               : zatom,zion,pspdat
+  90.000  12.000 20190829               : zatom,zion,pspdat
   7 -101130  3 0  1506 0.               : pspcod,pspxc,lmax,lloc,mmax,r2well
  paw5 1341                              : pspfmt,creatorID
   9 33                                  : basis_size,lmn_size
