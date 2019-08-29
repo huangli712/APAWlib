@@ -1,5 +1,5 @@
 Paw atomic data for element Np - Generated with atompaw v4.1.0.3
-  93.000  15.000 20190715               : zatom,zion,pspdat
+  93.000  15.000 20190829               : zatom,zion,pspdat
   7 -101130  3 0  1495 0.               : pspcod,pspxc,lmax,lloc,mmax,r2well
  paw5 1341                              : pspfmt,creatorID
   9 33                                  : basis_size,lmn_size
