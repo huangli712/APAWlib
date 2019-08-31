@@ -21,9 +21,9 @@ c            ! 5d
 v            ! 6d valence
 c            ! 4f
 2            ! lmax
-2.55         ! rpaw, rshape, rvloc, rcore
+2.56         ! rpaw, rshape, rvloc, rcore
 y            ! additional s partial wave
-0.5
+1.5
 n
 y            ! additional p partial wave
 2.2
