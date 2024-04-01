@@ -1,6 +1,6 @@
 ## Generation schemes
 
-Now HPAW supports two generation schemes.
+Now APAWlib supports two generation schemes.
 
 * Tier 1
     * Generation scheme for pseudo partial waves and projectors: Bloechl
@@ -33,6 +33,6 @@ No | Symbol | Valence
 
 **Note**
 
-According to wiki, the electronic configurations for Th and Cm are <img src="https://latex.codecogs.com/svg.latex?\Large&space;[Rn]6d^{2}7s^{2}"/> and <img src="https://latex.codecogs.com/svg.latex?\Large&space;[Rn]5f^{7}6d^{1}7s^{2}"/> , respectively. However, in the present version of HPAW, we chose different settings.
+According to wiki, the electronic configurations for Th and Cm are <img src="https://latex.codecogs.com/svg.latex?\Large&space;[Rn]6d^{2}7s^{2}"/> and <img src="https://latex.codecogs.com/svg.latex?\Large&space;[Rn]5f^{7}6d^{1}7s^{2}"/> , respectively. However, in the present version of APAWlib, we chose different settings.
 
 ## Benchmarks
