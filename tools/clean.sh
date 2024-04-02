@@ -26,9 +26,10 @@
 ## =======
 ##
 ## 07/14/2019 by li huang (created)
-## 04/01/2024 by li huang (last modified)
+## 04/02/2024 by li huang (last modified)
 ##
 ##
 
 rm -fr w* t* l* pot* r* *.xml *.abinit *.pdf expot dummy density vloc NC OCCWFN
+rm -fr Kressepot.dat Vloccheck smoothcore smoothcoretau
 rm -fr Fr Ra Ac Th Pa U Np Pu Am Cm Bk Cf Es Fm Md No Lr Rf
