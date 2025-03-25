@@ -4,7 +4,7 @@ The APAWlib project provides some projector augmented wave datasets. These datas
 
 ## Version
 
-v0.1.1-devel.24.0401
+v0.1.1-devel.240401
 
 ## License
 

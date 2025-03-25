@@ -1,0 +1,85 @@
+ Completed calculations for Ac
+ Exchange-correlation type:
+Exchange functional (LibXC):
+  J. P. Perdew, K. Burke, and M. Ernzerhof, Phys. Rev. Lett. 77, 3865 (1996)
+  J. P. Perdew, K. Burke, and M. Ernzerhof, Phys. Rev. Lett. 78, 1396 (1997)
+Correlation functional (LibXC):
+  J. P. Perdew, K. Burke, and M. Ernzerhof, Phys. Rev. Lett. 77, 3865 (1996)
+  J. P. Perdew, K. Burke, and M. Ernzerhof, Phys. Rev. Lett. 78, 1396 (1997)
+  Radial integration grid is logarithmic 
+r0 =   7.7773785E-05 h =   6.9218669E-03   n =      2001 rmax =   8.0000000E+01
+ Scalar relativistic calculation
+   AEatom converged in          28  iterations
+     for nz =  89.00
+     delta  =    2.2207096892896604E-014
+  All Electron Orbital energies:         
+  n  l     occupancy       energy
+ 1  0      2.0000000E+00 -7.8735200E+03
+ 2  0      2.0000000E+00 -1.4534935E+03
+ 3  0      2.0000000E+00 -3.6245402E+02
+ 4  0      2.0000000E+00 -9.0062578E+01
+ 5  0      2.0000000E+00 -1.9314313E+01
+ 6  0      2.0000000E+00 -2.9831742E+00
+ 7  0      2.0000000E+00 -2.8995751E-01
+ 2  1      6.0000000E+00 -1.2199259E+03
+ 3  1      6.0000000E+00 -2.9707685E+02
+ 4  1      6.0000000E+00 -6.8690364E+01
+ 5  1      6.0000000E+00 -1.2872067E+01
+ 6  1      6.0000000E+00 -1.4788975E+00
+ 3  2      1.0000000E+01 -2.3762202E+02
+ 4  2      1.0000000E+01 -4.6248683E+01
+ 5  2      1.0000000E+01 -5.8893717E+00
+ 6  2      1.0000000E+00 -1.6554072E-01
+ 4  3      1.4000000E+01 -2.2105491E+01
+
+  Total energy
+     Total                    :    -51407.755533874057     
+ Completed calculations for Ac
+ Exchange-correlation type:
+Exchange functional (LibXC):
+  J. P. Perdew, K. Burke, and M. Ernzerhof, Phys. Rev. Lett. 77, 3865 (1996)
+  J. P. Perdew, K. Burke, and M. Ernzerhof, Phys. Rev. Lett. 78, 1396 (1997)
+Correlation functional (LibXC):
+  J. P. Perdew, K. Burke, and M. Ernzerhof, Phys. Rev. Lett. 77, 3865 (1996)
+  J. P. Perdew, K. Burke, and M. Ernzerhof, Phys. Rev. Lett. 78, 1396 (1997)
+  Radial integration grid is logarithmic 
+r0 =   7.7773785E-05 h =   6.9218669E-03   n =      2001 rmax =   8.0000000E+01
+ Scalar relativistic calculation
+   SCatom converged in           4  iterations
+     for nz =  89.00
+     delta  =    7.4135071011591567E-015
+   Valence Electron Orbital energies:         
+  n  l     occupancy       energy
+ 6  0      2.0000000E+00 -2.9831742E+00
+ 7  0      2.0000000E+00 -2.8995751E-01
+ 6  1      6.0000000E+00 -1.4788975E+00
+ 6  2      1.0000000E+00 -1.6554072E-01
+
+  Total energy
+     Total                    :    -51407.755533836789     
+     Valence                  :    -937.43752271835444     
+  paw parameters: 
+       lmax =            2
+         rc =    2.5646690553630349     
+        irc =         1504
+ Vloc: Norm-conserving Troullier-Martins with l= 3;e=   0.0000E+00
+ Projector type: Bloechl + Gram-Schmidt ortho.
+ Sinc^2 compensation charge shape zeroed at rc
+
+Number of basis functions     7
+ No.   n    l      Energy         Cp coeff         Occ
+    1    6    0 -2.9831742E+00 -1.6954861E+01  2.0000000E+00
+    2    7    0 -2.8995751E-01 -2.0320711E+01  2.0000000E+00
+    3  999    0  1.5000000E+00 -5.3551241E+00  0.0000000E+00
+    4    6    1 -1.4788975E+00 -1.4921808E+01  6.0000000E+00
+    5  999    1  2.2000000E+00 -1.9914856E+01  0.0000000E+00
+    6    6    2 -1.6554072E-01 -1.2545937E+01  1.0000000E+00
+    7  999    2  1.8000000E+00  4.7582688E+00  0.0000000E+00
+  Summary of PAW energies
+        Total valence energy       -937.43752439035370     
+          Smooth energy            -143.03179387796914     
+          One center               -794.40573051238459     
+          Smooth kinetic            56.173652939085102     
+          Vloc energy              -167.02681183191811     
+          Smooth exch-corr         -36.819456858139034     
+          One-center xc            -852.76038813843627     

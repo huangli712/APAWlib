@@ -1,0 +1,104 @@
+ Completed calculations for Pa
+ Exchange-correlation type:
+Exchange functional (LibXC):
+  J. P. Perdew, K. Burke, and M. Ernzerhof.,  Phys. Rev. Lett. 77, 3865 (1996)
+  J. P. Perdew, K. Burke, and M. Ernzerhof.,  Phys. Rev. Lett. 78, 1396 (1997)
+Correlation functional (LibXC):
+  J. P. Perdew, K. Burke, and M. Ernzerhof.,  Phys. Rev. Lett. 77, 3865 (1996)
+  J. P. Perdew, K. Burke, and M. Ernzerhof.,  Phys. Rev. Lett. 78, 1396 (1997)
+ Conventional Kohn-Sham equations solved
+  Radial integration grid is logarithmic 
+r0 =   7.6178356E-05 h =   6.9322304E-03   n =      2001 rmax =   8.0000000E+01
+ Scalar relativistic calculation
+   AEatom converged in          34  iterations
+     for nz =  91.00
+     delta  =   4.494372767579719E-015
+  All Electron Orbital energies:         
+  n  l     occupancy       energy
+ 1  0      2.0000000E+00 -8.3093715E+03
+ 2  0      2.0000000E+00 -1.5471092E+03
+ 3  0      2.0000000E+00 -3.8909381E+02
+ 4  0      2.0000000E+00 -9.8399727E+01
+ 5  0      2.0000000E+00 -2.1656569E+01
+ 6  0      2.0000000E+00 -3.3569930E+00
+ 7  0      2.0000000E+00 -3.0588316E-01
+ 2  1      6.0000000E+00 -1.2892156E+03
+ 3  1      6.0000000E+00 -3.1733895E+02
+ 4  1      6.0000000E+00 -7.4963169E+01
+ 5  1      6.0000000E+00 -1.4473372E+01
+ 6  1      6.0000000E+00 -1.6462959E+00
+ 3  2      1.0000000E+01 -2.5425445E+02
+ 4  2      1.0000000E+01 -5.1083706E+01
+ 5  2      1.0000000E+01 -6.8433777E+00
+ 6  2      1.0000000E+00 -1.7388005E-01
+ 4  3      1.4000000E+01 -2.5642161E+01
+ 5  3      2.0000000E+00 -1.7265163E-01
+ 
+  Total energy
+     Total                    :    -54411.8273300523     
+ Completed calculations for Pa
+ Exchange-correlation type:
+Exchange functional (LibXC):
+  J. P. Perdew, K. Burke, and M. Ernzerhof.,  Phys. Rev. Lett. 77, 3865 (1996)
+  J. P. Perdew, K. Burke, and M. Ernzerhof.,  Phys. Rev. Lett. 78, 1396 (1997)
+Correlation functional (LibXC):
+  J. P. Perdew, K. Burke, and M. Ernzerhof.,  Phys. Rev. Lett. 77, 3865 (1996)
+  J. P. Perdew, K. Burke, and M. Ernzerhof.,  Phys. Rev. Lett. 78, 1396 (1997)
+ Conventional Kohn-Sham equations solved
+  Radial integration grid is logarithmic 
+r0 =   7.6178356E-05 h =   6.9322304E-03   n =      2001 rmax =   8.0000000E+01
+ Scalar relativistic calculation
+   SCatom converged in           4  iterations
+     for nz =  91.00
+     delta  =   7.465124738427644E-016
+   Valence Electron Orbital energies:         
+  n  l     occupancy       energy
+ 6  0      2.0000000E+00 -3.3569930E+00
+ 7  0      2.0000000E+00 -3.0588316E-01
+ 6  1      6.0000000E+00 -1.6462959E+00
+ 6  2      1.0000000E+00 -1.7388005E-01
+ 5  3      2.0000000E+00 -1.7265163E-01
+ 
+  Total energy
+     Total                    :    -54411.8273300577     
+     Valence                  :    -995.625386946214     
+  paw parameters: 
+       lmax =            3
+         rc =    2.53386750203922     
+        irc =         1503
+ Vloc: Norm-conserving Troullier-Martins with l= 4;e=   0.0000E+00
+ Projector type: Bloechl + Gram-Schmidt ortho.
+ Sinc^2 compensation charge shape zeroed at rc
+
+Number of basis functions     9
+ No.    n nodes    l      Energy         Cp coeff         Occ
+    1    6    5    0 -3.3569930E+00 -9.0037434E+00  2.0000000E+00
+    2    7    6    0 -3.0588316E-01 -1.2013037E+01  2.0000000E+00
+    3  999    7    0  2.0000000E+00  2.8336777E+00  0.0000000E+00
+    4    6    4    1 -1.6462959E+00 -8.9107587E+00  6.0000000E+00
+    5  999    5    1  1.5000000E+00 -1.1892415E+01  0.0000000E+00
+    6    6    3    2 -1.7388005E-01 -9.7917069E+00  1.0000000E+00
+    7  999    4    2  1.6000000E+00  1.1351752E+01  0.0000000E+00
+    8    5    1    3 -1.7265163E-01  5.2690931E+00  2.0000000E+00
+    9  999    2    3  2.0000000E+00  1.0696262E+01  0.0000000E+00
+ Completed diagonalization of ovlp with info =        0
+  
+ Eigenvalues of overlap operator (in the basis of projectors):
+    1        6.59136694E-03
+    2        1.58064157E-02
+    3        2.61855556E-01
+    4        7.22275837E-01
+    5        8.90605463E-01
+    6        1.67062585E+00
+    7        1.88891337E+00
+    8        2.29757676E+00
+    9        7.92375575E+00
+  
+  Summary of PAW energies
+        Total valence energy       -995.625386853954     
+          Smooth energy            0.677727935739675     
+          One center               -996.303114789694     
+          Smooth kinetic            32.1446135650028     
+          Vloc energy              -26.1805619373424     
+          Smooth exch-corr         -16.7037143772271     
+          One-center xc            -908.634379461513     

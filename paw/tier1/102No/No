@@ -1,0 +1,95 @@
+ Completed calculations for No
+ Exchange-correlation type:
+Exchange functional (LibXC):
+  J. P. Perdew, K. Burke, and M. Ernzerhof.,  Phys. Rev. Lett. 77, 3865 (1996)
+  J. P. Perdew, K. Burke, and M. Ernzerhof.,  Phys. Rev. Lett. 78, 1396 (1997)
+Correlation functional (LibXC):
+  J. P. Perdew, K. Burke, and M. Ernzerhof.,  Phys. Rev. Lett. 77, 3865 (1996)
+  J. P. Perdew, K. Burke, and M. Ernzerhof.,  Phys. Rev. Lett. 78, 1396 (1997)
+ Conventional Kohn-Sham equations solved
+  Radial integration grid is logarithmic 
+r0 =   6.8484924E-05 h =   6.9854622E-03   n =      2001 rmax =   8.0000000E+01
+ Scalar relativistic calculation
+   AEatom converged in          96  iterations
+     for nz = 102.00
+     delta  =   3.498087679216443E-015
+  All Electron Orbital energies:         
+  n  l     occupancy       energy
+ 1  0      2.0000000E+00 -1.1059729E+04
+ 2  0      2.0000000E+00 -2.1546009E+03
+ 3  0      2.0000000E+00 -5.6092850E+02
+ 4  0      2.0000000E+00 -1.5089561E+02
+ 5  0      2.0000000E+00 -3.4826309E+01
+ 6  0      2.0000000E+00 -4.7044209E+00
+ 7  0      2.0000000E+00 -3.0339428E-01
+ 2  1      6.0000000E+00 -1.7090788E+03
+ 3  1      6.0000000E+00 -4.4027620E+02
+ 4  1      6.0000000E+00 -1.1174156E+02
+ 5  1      6.0000000E+00 -2.2221224E+01
+ 6  1      6.0000000E+00 -1.8817902E+00
+ 3  2      1.0000000E+01 -3.5329115E+02
+ 4  2      1.0000000E+01 -7.8586222E+01
+ 5  2      1.0000000E+01 -1.0767900E+01
+ 4  3      1.4000000E+01 -4.5489772E+01
+ 5  3      1.4000000E+01 -4.2473039E-01
+ 
+  Total energy
+     Total                    :    -73185.0221989360     
+ Completed calculations for No
+ Exchange-correlation type:
+Exchange functional (LibXC):
+  J. P. Perdew, K. Burke, and M. Ernzerhof.,  Phys. Rev. Lett. 77, 3865 (1996)
+  J. P. Perdew, K. Burke, and M. Ernzerhof.,  Phys. Rev. Lett. 78, 1396 (1997)
+Correlation functional (LibXC):
+  J. P. Perdew, K. Burke, and M. Ernzerhof.,  Phys. Rev. Lett. 77, 3865 (1996)
+  J. P. Perdew, K. Burke, and M. Ernzerhof.,  Phys. Rev. Lett. 78, 1396 (1997)
+ Conventional Kohn-Sham equations solved
+  Radial integration grid is logarithmic 
+r0 =   6.8484924E-05 h =   6.9854622E-03   n =      2001 rmax =   8.0000000E+01
+ Scalar relativistic calculation
+   SCatom converged in           4  iterations
+     for nz = 102.00
+     delta  =   5.601319752534200E-017
+   Valence Electron Orbital energies:         
+  n  l     occupancy       energy
+ 6  0      2.0000000E+00 -4.7044209E+00
+ 7  0      2.0000000E+00 -3.0339428E-01
+ 6  1      6.0000000E+00 -1.8817902E+00
+ 5  2      1.0000000E+01 -1.0767900E+01
+ 5  3      1.4000000E+01 -4.2473038E-01
+ 
+  Total energy
+     Total                    :    -73185.0221988494     
+     Valence                  :    -2099.81262828665     
+  paw parameters: 
+       lmax =            3
+         rc =    2.30109000614204     
+        irc =         1493
+ Vloc: Norm-conserving Troullier-Martins with l= 4;e=   0.0000E+00
+ Projector type: Bloechl + Gram-Schmidt ortho.
+ Sinc^2 compensation charge shape zeroed at rc
+
+Number of basis functions     9
+ No.    n nodes    l      Energy         Cp coeff         Occ
+    1    6    5    0 -4.7044209E+00 -6.3082053E+00  2.0000000E+00
+    2    7    6    0 -3.0339428E-01 -9.8553980E+00  2.0000000E+00
+    3  999    7    0  1.0000000E+00  1.0152390E+01  0.0000000E+00
+    4    6    4    1 -1.8817902E+00 -6.8920113E+00  6.0000000E+00
+    5  999    5    1  1.5000000E+00 -9.3928039E+00  0.0000000E+00
+    6    5    2    2 -1.0767900E+01  2.3035828E+01  1.0000000E+01
+    7  999    3    2  2.0000000E+00  1.8089396E+01  0.0000000E+00
+    8    5    1    3 -4.2473038E-01  1.2112779E+01  1.4000000E+01
+    9  999    2    3  4.0000000E+00  2.1138406E+01  0.0000000E+00
+ Completed diagonalization of ovlp with info =        0
+  
+ Eigenvalues of overlap operator (in the basis of projectors):
+    1       -3.50185097E-03
+    2        9.30049103E-02
+    3        3.65972919E-01
+    4        9.83795880E-01
+    5        1.11659404E+00
+    6        1.67418550E+00
+    7        2.65946154E+00
+    8        1.41727046E+01
+    9        6.02656679E+01
+  

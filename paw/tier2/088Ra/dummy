@@ -1,0 +1,36 @@
+Ra 88        ! Ra element
+XC_GGA_X_PBE+XC_GGA_C_PBE scalarrelativistic loggrid 2000 ! PBE XC by xclib
+7 6 5 4 0 0  ! [Rn] = [Xe] 4f14 5d10 6s2 6p6; [Ra] = [Rn] 7s2
+7 0 2.0      ! 7f2 is partially occupied
+0 0 0
+c
+c
+c
+c
+c
+v
+v
+c
+c
+c
+c
+v
+c
+c
+c
+c
+1            ! lmax
+2.6          ! rpaw, rshape, rvloc, rcore
+y            ! additional s partial wave
+1.0
+n
+y            ! additional p partial wave
+3.0
+n
+custom rrkj  ! projector_keyword
+2 0.0 troulliermartins  ! lloc, eloc, vloc_scheme
+2.3          ! r_c matching radius for first  s partial wave
+2.8          ! r_c matching radius for second s partial wave
+2.0          ! r_c matching radius for third  s partial wave
+2.3          ! r_c matching radius for first  p partial wave
+2.3          ! r_c matching radius for second p partial wave

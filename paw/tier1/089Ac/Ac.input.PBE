@@ -37,4 +37,6 @@ ABINITOUT    ! ABINIT
 default
 XMLOUT       ! XML
 default
+PWSCFOUT
+default
 END
